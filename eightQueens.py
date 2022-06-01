@@ -1,3 +1,7 @@
+# Eyal Brilling #
+# https://github.com/EyalBrilling #
+# https://www.linkedin.com/in/eyalbrilling/ #
+
 import random
 import math
 import time

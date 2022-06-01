@@ -1,3 +1,6 @@
+# Eyal Brilling #
+# https://github.com/EyalBrilling #
+# https://www.linkedin.com/in/eyalbrilling/ #
 import pygame
 import time
 
